@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AcessibilityHelper</string>
+    <string name="wifihotspot_settings">Roteador Wi-Fi e Ancoragem</string>
+    <string name="hotspot_settings">Roteador Wi-Fi</string>
+    <string name="edittext_nome_hotspot">com.android.settings:id/ssid</string>
+    <string name="edittext_password_hotspot">com.android.settings:id/password</string>
+    <string name="textview_nome_password_hotspot">android:id/title</string>
+    <string name="button_nome_password_salvar_hotspot">android:id/button1</string>
+    <string name="reciclerview_hotspot">com.android.settings:id/list</string>
+    <string name="switch_enable_hotspot">com.android.settings:id/switch_background</string>
+</resources>
